@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1770742892 source:c:\users\lenovo\onedrive\desktop\gestionlibrairie\librarymangement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<termios.h>
+	<fcntl.h>
+	"book.h"
+	"borrow.h"
+	"file_io.h"
+	"date_utils.h"
+
+1770642298 c:\users\lenovo\onedrive\desktop\gestionlibrairie\librarymangement\book.h
+
+1770642520 c:\users\lenovo\onedrive\desktop\gestionlibrairie\librarymangement\borrow.h
+	<time.h>
+
+1770642689 c:\users\lenovo\onedrive\desktop\gestionlibrairie\librarymangement\file_io.h
+	"book.h"
+	"borrow.h"
+
+1770741661 c:\users\lenovo\onedrive\desktop\gestionlibrairie\librarymangement\date_utils.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1770657511 source:c:\users\lenovo\onedrive\desktop\gestionlibrairie\librarymangement\book.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"book.h"
+
+1770642600 source:c:\users\lenovo\onedrive\desktop\gestionlibrairie\librarymangement\borrow.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"borrow.h"
+
+1770741675 source:c:\users\lenovo\onedrive\desktop\gestionlibrairie\librarymangement\date_utils.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"date_utils.h"
+
+1770661739 source:c:\users\lenovo\onedrive\desktop\gestionlibrairie\librarymangement\file_io.c
+	<stdio.h>
+	<stdlib.h>
+	"file_io.h"
+
+1770653912 source:c:\users\hp\desktop\gestionlibrairie\librarymangement\book.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"book.h"
+
+1770638700 c:\users\hp\desktop\gestionlibrairie\librarymangement\book.h
+
+1770639002 source:c:\users\hp\desktop\gestionlibrairie\librarymangement\borrow.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"borrow.h"
+
+1770638922 c:\users\hp\desktop\gestionlibrairie\librarymangement\borrow.h
+	<time.h>
+
+1770738076 source:c:\users\hp\desktop\gestionlibrairie\librarymangement\date_utils.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"date_utils.h"
+
+1770738062 c:\users\hp\desktop\gestionlibrairie\librarymangement\date_utils.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1770658140 source:c:\users\hp\desktop\gestionlibrairie\librarymangement\file_io.c
+	<stdio.h>
+	<stdlib.h>
+	"file_io.h"
+
+1770639090 c:\users\hp\desktop\gestionlibrairie\librarymangement\file_io.h
+	"book.h"
+	"borrow.h"
+
+1770739294 source:c:\users\hp\desktop\gestionlibrairie\librarymangement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<termios.h>
+	<fcntl.h>
+	"book.h"
+	"borrow.h"
+	"file_io.h"
+	"date_utils.h"
+
+1770639002 source:c:\users\hp\desktop\algo_exos\gestionlibrairie\librarymangement\borrow.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"borrow.h"
+
+1770638922 c:\users\hp\desktop\algo_exos\gestionlibrairie\librarymangement\borrow.h
+	<time.h>
+
+1770738076 source:c:\users\hp\desktop\algo_exos\gestionlibrairie\librarymangement\date_utils.c
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"date_utils.h"
+
+1770738062 c:\users\hp\desktop\algo_exos\gestionlibrairie\librarymangement\date_utils.h
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1770739294 source:c:\users\hp\desktop\algo_exos\gestionlibrairie\librarymangement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+	<unistd.h>
+	<termios.h>
+	<fcntl.h>
+	"book.h"
+	"borrow.h"
+	"file_io.h"
+	"date_utils.h"
+
+1770638700 c:\users\hp\desktop\algo_exos\gestionlibrairie\librarymangement\book.h
+
+1770639090 c:\users\hp\desktop\algo_exos\gestionlibrairie\librarymangement\file_io.h
+	"book.h"
+	"borrow.h"
+
